@@ -1,3 +1,5 @@
+Estudants: Gustavo Chaves, Lucas Martins Venero e Michael Varaldo
+
 ############### Running the File ####################
 
 To run the train file, you should navigate to the root folder of the project and type node tremAutonomo.js.
