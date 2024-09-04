@@ -66,3 +66,5 @@ console.log(
     "ESQUERDA",
   ])
 );
+
+module.exports = TremAutonomo;
