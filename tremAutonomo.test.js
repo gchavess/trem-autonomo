@@ -22,7 +22,7 @@ describe("TremAutonomo", () => {
     expect(trem.posicao).toBe(-1);
   });
 
-  test("Deve parar após 50 movimentos totais", () => {
+  test("Deve parar após 20 movimentos totais", () => {
     const comandos = Array(21).fill("DIREITA");
     trem.executarComandos(comandos);
     expect(trem.posicao).toBe(20);
