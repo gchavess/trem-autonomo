@@ -1,4 +1,4 @@
-Estudants: Gustavo Chaves, Lucas Martins Venero e Michael Varaldo
+Students: Gustavo Chaves, Lucas Martins Venero e Michael Varaldo
 
 ############### Running the File ####################
 
